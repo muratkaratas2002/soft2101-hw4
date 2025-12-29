@@ -1,0 +1,10 @@
+SOFT2101 Homework 4 - Git Assignment Answers
+Students: Murat Karatas (22COMP1015), Melih Murat Celik (23COMP1048)
+
+Step A: git config --global user.name, user.email, core.editor
+Step B: .git contains: HEAD, config, objects/, refs/, hooks/
+Step C: [Software Engineering](https://www.isikun.edu.tr/...)
+Step D: .gitignore rules: *.class, *.jar, .idea/, target/, build/
+Step F: Commits on feature-1: "satisfying requirement one"
+Step J: Commits on feature-2: "satisfying requirement change two"
+Step M: feature-2 has ODD numbers, feature-3 has EVEN numbers
