@@ -15,7 +15,9 @@ public class NumberRange {
     
     public static void printNumbersInRange(int start, int end) {
         for (int i = start + 1; i < end; i++) {
-            System.out.println(i);
+            if (i % 2 != 0) {
+                System.out.println(i);
+            }
         }
     }
 }
